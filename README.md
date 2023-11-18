@@ -12,7 +12,7 @@ I work mainly with R - Rmarkdown, Quarto, Shinny - Currently there are two of my
 
 ## Encuentrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marades)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mara_Destefanis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marades)
 
 ![Web](https://img.shields.io/badge/Web-maradestefanis.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://maradestefanis.com)
 
