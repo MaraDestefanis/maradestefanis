@@ -15,7 +15,7 @@ I'm passionate about continuous learning, which is why I also engage as a lectur
 #### Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mara_Destefanis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/maradestefanis/) [![Web](https://img.shields.io/badge/Web-MaraDestefanis.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://maradestefanis.com)
- [![Web](https://img.shields.io/badge/Web-MaraDestefanis.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dempathyproject.com)
+ [![Web](https://img.shields.io/badge/Web-dempathyproject.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://dempathyproject.com)
 
 #### Contacto:
 
