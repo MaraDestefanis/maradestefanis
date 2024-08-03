@@ -1,6 +1,6 @@
-### Hola -Soy Mara Destéfanis - 👋
+### Hola -Soy Mara Destéfanis, conocida como Muna - 👋
 
-#### Soy Analista de Datos y Periodista.
+#### Soy Científica de Datos y Periodista.
 
 Pasé del periodismo al marketing digital y posteriormente profundicé en el emprendimiento, especializándome en la gestión de big data, particularmente datos de internet. Sin embargo, finalmente regresé al periodismo con un nuevo enfoque en el análisis de datos, particularmente abordando temas urgentes como el cambio climático, la sostenibilidad y el desarrollo social. Trabajando de forma independiente, aprovecho las herramientas que adquirí, incluidas R, Rmarkdown, Quarto, Shinny y Python. Actualmente, estoy liderando dos proyectos: BigDataMachine y el Proyecto D_Empathy, abierta a participar en proyectos con propósitos.
 
