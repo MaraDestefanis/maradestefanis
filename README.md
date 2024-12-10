@@ -1,16 +1,27 @@
-### Hola -Soy Mara Destéfanis, conocida como Muna - 👋
+### Hola - Soy Mara Destéfanis- 👋
 
 #### Soy Científica de Datos y Periodista.
 
-Pasé del periodismo al marketing digital y posteriormente profundicé en el emprendimiento, especializándome en la gestión de big data, particularmente datos de internet. Sin embargo, finalmente regresé al periodismo con un nuevo enfoque en el análisis de datos, particularmente abordando temas urgentes como el cambio climático, la sostenibilidad y el desarrollo social. Trabajando de forma independiente, aprovecho las herramientas que adquirí, incluidas R, Rmarkdown, Quarto, Shinny y Python. Actualmente, estoy liderando dos proyectos: BigDataMachine y el Proyecto D_Empathy, abierta a participar en proyectos con propósitos.
+Pasé del periodismo al marketing digital, transité el mundo emprendedor con la gestión de big data, particularmente datos de internet. 
+Saturada de sobreinformación, fusiono periodismo con ciencia de Datos e IA. El 2025 comienza con una nueva rama de periodismo de simulaciones 
+hacia escenarios potenciales futuros. Me apasiona la educación, la ciencia y la investigación.  
+Herramientas como R, Rmarkdown, Quarto, Shinny y Python son los vehículos diarios. 
+Hoy impulso  D_Empathy Project, proyecto filantrópico de periodismo abierto y ciencia de datos focalizado en el equilibrio sostenido. 
 
 Me interesa estar en aprendizaje constante por eso participo como profesora en algunas universidades e institutos de habla hispana.
 
 ![<https://www.maradestefanis.com>](maradestefaniosgithub.jpg)
 
-I transitioned from journalism to digital marketing and subsequently delved into entrepreneurship, specializing in big data management, particularly internet data. However, I ultimately returned to journalism with a newfound focus on data analysis, particularly addressing urgent issues like climate change, sustainability, and social development. Working independently, I leverage the tools I've acquired, including R, Rmarkdown, Quarto, Shinny, and Python. Currently, I'm spearheading two projects: BigDataMachine and the D_Empathy Project, and I'm open to participating in purpose-driven projects.
+### I am a Data Scientist and Journalist.
 
-I'm passionate about continuous learning, which is why I also engage as a lecturer in some Spanish-speaking universities and institutes.
+I transitioned from journalism to digital marketing and delved into the entrepreneurial world through big data management, particularly focusing on internet data.
+Overwhelmed by information overload, I now merge journalism with data science and AI. In 2025,
+ I am embracing a new branch of journalism centered on simulations and exploring potential future scenarios.
+I am passionate about education, science, and research.
+Tools like R, RMarkdown, Quarto, Shiny, and Python are my daily vehicles.
+Today, I lead D_Empathy Project, a philanthropic initiative in open journalism and data science focused on achieving sustained balance.
+
+I am deeply committed to continuous learning, which is why I teach at several Spanish-speaking universities and institutes.
 
 #### Encuéntrame en:
 
