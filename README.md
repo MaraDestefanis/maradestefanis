@@ -18,7 +18,18 @@ I transitioned from journalism to digital marketing and delved into the entrepre
 Overwhelmed by information overload, I now merge journalism with data science and AI. In 2025,
  I am embracing a new branch of journalism centered on simulations and exploring potential future scenarios.
 I am passionate about education, science, and research.
-Tools like R, RMarkdown, Quarto, Shiny, and Python are my daily vehicles.
+Tools like:              
+| Rank | Languages |
+|-----:|-----------|
+|     1| R|
+|     2| Python    |
+|     3| RMarkdown |
+|     4| Quarto    |
+|     5| Shiny     |
+|     6| ML libraries| 
+
+are my daily vehicles.
+
 Today, I lead D_Empathy Project, a philanthropic initiative in open journalism and data science focused on achieving sustained balance.
 
 I am deeply committed to continuous learning, which is why I teach at several Spanish-speaking universities and institutes.
